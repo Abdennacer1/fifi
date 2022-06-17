@@ -1,13 +1,13 @@
 {"MayData":{
   "AdsCountroller":{ 
-       "Admob_Case":true,
+       "Admob_Case":false,
        "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
        "Admob_Inter":"ca-app-pub-3940256099942544/1033173712",
        
-       "Applovin_Case":false,
-       "Applovin_Banner":"afc106cac6c85186",
-       "Applovin_merc":"bca771f0dc0910ee",
-       "Applovin_Inter":"335804ed29f022ca"
+       "Applovin_Case":true,
+       "Applovin_Banner":"d1085808bf9ac585",
+       "Applovin_merc":"e97225e1021a4466",
+       "Applovin_Inter":"26296333bf41c692"
     
     }
     
