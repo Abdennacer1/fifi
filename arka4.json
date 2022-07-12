@@ -1,8 +1,8 @@
 {"MayData":{
   "AdsCountroller":{ 
-       "Admob_Case":false,
-       "Admob_Banner":"ca-app-pub-5237765200375913/8234765354",
-       "Admob_Inter":"ca-app-pub-5237765200375913/4223653560",
+       "Admob_Case":true,
+       "Admob_Banner":"ca-app-pub-1771986996100576/4890816094",
+       "Admob_Inter":"ca-app-pub-1771986996100576/7133836052",
        
        "Applovin_Case":true,
        "Applovin_Banner":"d5324faa5630ac60",
